@@ -5,7 +5,7 @@ Conjunto de datos utilizado para el estudio de "Aprendizaje automático para pre
 Data set used for the study "Machine learning for the prediction of anemia in children under 5 years of age by analyzing their nutritional status using Data Mining" was obtained from the Clinical Histories of the Health Establishments of the Ministry of Health Peru. , published by the National Institute of Health - National Center for Food and Nutrition (CENAN) with updated information from Lima for 2020 on the Open Data Platform of Peru.
 (https://www.datosabiertos.gob.pe/dataset/sistema-de-informaci%C3%B3n-del-estado-nutricional-de-ni%C3%B1os-y-gestantes-per%C3%BA-inscenan-instituto)
 
-## Integrantes del equipo estudio - Members of the study team Members of the study team  : 
+## Integrantes del equipo estudio - Members of the study team: 
 ### -Calderon Vilca, Hugo David
 ### -Marcos Valdez, Alexander              		
 ### -Navarro Ortiz, Eduardo                   		
